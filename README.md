@@ -18,4 +18,22 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Reach me on
 - <a href="https://www.linkedin.com/in/zuzlifatul-adnan-a5a345271/">LinkedIn</a>
 
+### Detail 
+- <details>
+<p align="center">
+  <a href="https://github.com/Adnan146">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adnan&theme=transparent" />
+  </a>
+  <a href="https://github.com/Adnan146">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan146&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Adnan146">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adnan146&theme=transparent" />
+  </a>
+  <a href="https://github.com/Adnan146">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan146&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
 
